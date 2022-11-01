@@ -6,7 +6,7 @@ hello, I am mattybrace
 5. X-Mouse Button Control download = https://www.mediafire.com/file/0692w97x3d9zdi8/X_Mouse_Button_Control.7z/file
 6. Gd 2.2 recreation download = https://www.mediafire.com/file/rcfs8qz3ypn59dy/Geometry_Dash_2.2_Recreation.rar/file
 7. Desktop Goose download = https://www.mediafire.com/file/87x4flf39d1dhab/DesktopGoose_v0.3.7z/file
-
+8. Terraria Free download = http://www.mediafire.com/file/obzl8ejfy66uwgm/Terraria_V1.3.5.3_GBT.rar/file
 
 
 
