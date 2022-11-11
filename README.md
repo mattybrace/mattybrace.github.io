@@ -8,7 +8,8 @@ hello, I am mattybrace
 7. Desktop Goose download = https://www.mediafire.com/file/87x4flf39d1dhab/DesktopGoose_v0.3.7z/file
 8. Terraria Free download = http://www.mediafire.com/file/obzl8ejfy66uwgm/Terraria_V1.3.5.3_GBT.rar/file
 9. Computer Outro download = https://www.mediafire.com/file/6801mjdb5cfs1iw/ComputerOutroMeme-main.zip/file
-10. Plauge .Inc Free donwload = https://www.mediafire.com/file/029b890hi3xfpcm/Plague_Inc_Evolved.7z/file
+10. Plauge .Inc Free donwload = https://mega.nz/#!Yt1zyAZC!_YvPQ5uX8Zi4i4bsYV_fHS1LGl9MqcpkSMKVZfDD6XM
+
 
 
 How to Open Files, you need to use seven zip to open the files by left clicking and poening the achive.
