@@ -10,8 +10,8 @@ hello, I am mattybrace
 9. Computer Outro download = https://www.mediafire.com/file/6801mjdb5cfs1iw/ComputerOutroMeme-main.zip/file
 10. Plauge .Inc Free donwload = https://mega.nz/#!Yt1zyAZC!_YvPQ5uX8Zi4i4bsYV_fHS1LGl9MqcpkSMKVZfDD6XM
 11. Geometry dash hack no clip = https://www.wemod.com/
-
-
+12. Duck Souls = https://www.mediafire.com/folder/3q4kz0fihxa3f/Duck+Souls click on the folder on the left hand side to download
+13. Metal Slug X = https://www.mediafire.com/folder/rbpto4xp05rt6/Metal+Slug+X
 
 How to Open Files, you need to use seven zip to open the files by left clicking and poening the achive.
 
