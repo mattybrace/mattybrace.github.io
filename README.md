@@ -17,6 +17,9 @@ hello, I am mattybrace
 16. Windows 10 iso = https://mega.nz/file/RmpW3BIZ#YG-H6hO-GbGDkunD45BbtIIw6i53YC2Y59lbR3NT-zU
 17. bass music folder 1 = https://mega.nz/file/c6AE0ZZa#3Z9Om-m0-Slv1-6alVLwH3wDYPJdylvAfsVwYkgaumM
 18. Super mario 64 = https://www.mediafire.com/file/bwb4gvcr0eosjnt/simple64-2023.01.2-win64.zip/file
+19. Pokemon Red = https://www.mediafire.com/file/seldwtvgvy7wq8h/Pokemon_Red.zip/file
 
-How to Open Files, you need to use seven zip to open the files by left clicking and poening the achive.
+
+
+How to Open Files: you need to use seven zip to open the files by left clicking and opening the achive.
 
