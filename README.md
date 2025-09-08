@@ -18,6 +18,8 @@ hello, I am mattybrace
 17. bass music folder 1 = https://mega.nz/file/c6AE0ZZa#3Z9Om-m0-Slv1-6alVLwH3wDYPJdylvAfsVwYkgaumM
 18. Super mario 64 = https://www.mediafire.com/file/bwb4gvcr0eosjnt/simple64-2023.01.2-win64.zip/file
 19. Pokemon Red = https://www.mediafire.com/file/seldwtvgvy7wq8h/Pokemon_Red.zip/file
+20. Hollow Knight Original = https://www.mediafire.com/file/ylbyodklylykaz1/Hollow-Knight.7z/file
+21. Hollow Knight: Silksong = https://www.mediafire.com/file/1rnp08o9h7rnoty/Hollow+Knight+Silksong.zip/file
 
 
 
